@@ -1,4 +1,5 @@
 fastapi
-uvicorn[standard]
-ollama
+uvicorn
 python-dotenv
+pydantic
+ollama
