@@ -1,0 +1,7 @@
+langgraph
+chromadb
+ollama
+ddgs
+python-dotenv
+pypdf
+pytest
